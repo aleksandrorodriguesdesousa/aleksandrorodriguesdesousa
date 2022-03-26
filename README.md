@@ -1,4 +1,4 @@
-### Olá! Meu nome é Aleksandro Rodrigues
+### Oi, sou Aleksandro Rodrigues
 
 <div align="center">
   <a href="https://github.com/aleksandrorodriguesdesousa">
