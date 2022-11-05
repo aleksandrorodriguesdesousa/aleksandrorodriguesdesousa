@@ -1,4 +1,5 @@
-# Olá! Meu nome é Aleksandro Rodrigues
+# Prazer, sou Aleksandro Rodrigues!
+
 
 <div> 
   <a href="https://wa.me/5589981349161?text=Olá!%20Tudo%20Bem?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
