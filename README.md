@@ -8,7 +8,7 @@
 
 ### **🎓 Sou formado em Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia.**
 
-Me consulte para mais informações.
+Consulte-me para mais informações.
 
 
 
