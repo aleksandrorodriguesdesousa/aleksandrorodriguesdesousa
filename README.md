@@ -5,11 +5,9 @@
      <a href = "mailto:aleksandrorodriguesdesousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-### **🎓 Estou-me formando em Análise e Desenvolvimento de Sistemas.**
+### **🎓 Formando em Análise e Desenvolvimento de Sistemas.**
 
-Estou estudando desenvolvimento front-end há algum tempo, e venho-me mantendo sempre atualizado com cursos de especialização e projetos pessoais.
-
-Sou apaixonado por tecnologia adoro trabalhar em equipe e tenho ótimo relacionamento com as pessoas.
+Apaixonado por tecnologia.
 
 
 
