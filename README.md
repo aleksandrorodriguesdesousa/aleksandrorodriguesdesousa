@@ -8,8 +8,7 @@
 
 ### **🎓 Sou formado em Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia.**
 
-Meu objetivo é possibilitar.
-
+Me consulte para mais informações.
 
 
 
